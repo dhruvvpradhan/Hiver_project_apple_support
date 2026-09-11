@@ -1,0 +1,8 @@
+{
+  "golden_examples": 200,
+  "intent_accuracy": 0.57,
+  "intent_macro_f1": 0.5282,
+  "intent_weighted_f1": 0.5845,
+  "escalation_rate": 0.46,
+  "note": "Reply-quality proxy is diagnostic only; no human/LLM judge scores are claimed."
+}

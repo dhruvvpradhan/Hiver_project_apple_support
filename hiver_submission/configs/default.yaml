@@ -1,0 +1,4 @@
+# Paths are examples. Do not commit raw TWCS data.
+pairs_csv: data/apple_support_pairs.csv
+golden_csv: data/golden_set.csv
+output_csv: evaluation/agent_predictions.csv

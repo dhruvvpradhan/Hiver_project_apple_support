@@ -1,0 +1,225 @@
+example_id,tweet_id,customer_text,gold,majority_pred,tfidf_pred
+1,248734,"@AppleSupport my phone keeps turning brightness up, wifi on, and bluetooth on. My phone died and wouldnt turn on for a while. ios 11 👎🏼",other_unknown,other_unknown,connectivity_problem
+2,258935,"@AppleSupport I have an Apple ID, but when I try to setup two-Factor authentication, it shows +237 Cameroon but refuse all our 9-digit numbers.",apple_id_account_problem,other_unknown,apple_id_account_problem
+3,81797,@AppleSupport hi ! Can we have my battery health on my iPhone 6 checked ?,battery_problem,other_unknown,battery_problem
+4,243339,"IOS 11 tam bir fiyasko; batarya erken bitiyor, tepkiler yavaşladı, bi çok kararsızlık var. Android’den farkı kalmadı... @AppleSupport",battery_problem,other_unknown,other_unknown
+5,262206,@115858 this new update is horrible. I can’t even change my music when I’m on my lock screen... Makes for walking and running annoying...,other_unknown,other_unknown,ios_update_problem
+6,41624,@AppleSupport It is just a black screen but when I use the Twitter app it works fine. Reset the phone and latest update didn’t fix it,app_problem,other_unknown,ios_update_problem
+7,211321,Damnit @115858! You’re latest “fix” has screwed up my camera on the most important week!!! Pictures are not saving to camera. Stupid!,app_problem,other_unknown,other_unknown
+8,151504,@AppleSupport i want to update my payment method but it keeps saying the date cant be in the past when its well in the future.,purchase_order_billing,other_unknown,ios_update_problem
+9,53534,"Since I️ update my phone yesterday, I️ cannot type “I’s”. I’m hurt by @115858’s constant betrayal to reel me in, just to sabotage in the end.",keyboard_input_problem,other_unknown,ios_update_problem
+10,31871,@AppleSupport please do something about iOS 11's battery drain issue. I literally have my iPhone 6 plugged in and it's still losing power.,battery_problem,other_unknown,battery_problem
+11,246334,"@AppleSupport Sorry, I figured it out :) It just took some extra time for them to show up in Apple Photos.",icloud_media_storage_problem,other_unknown,other_unknown
+12,243335,@115858 @AppleSupport @116333 appalling telephone customer service. So shocking in fact; I cancelled my £2000 order. #NeverAgain,purchase_order_billing,other_unknown,purchase_order_billing
+13,109082,"@AppleSupport any reason why my back camera won’t focus all of a sudden? Wondering if it’s just me, update didn’t help",hardware_device_problem,other_unknown,ios_update_problem
+14,51628,"@AppleSupport hey..um my bookmarks and reading list are all gone and i didn’t connect them to icloud, is there any way to get them back?",icloud_media_storage_problem,other_unknown,icloud_media_storage_problem
+15,122349,"Hi @AppleSupport I have some problems with my iPhone X order and shippingCan u help me?",purchase_order_billing,other_unknown,purchase_order_billing
+16,92751,"hey @115858 , where is my iPhoneX?
+
+I'm waiting for a long time, really considering, cancel the order, sell my appleWatch and buy an Android terminal.",purchase_order_billing,other_unknown,purchase_order_billing
+17,146688,@115858 y’all gotta fix my keyboard it’s tweaking like hell,keyboard_input_problem,other_unknown,keyboard_input_problem
+18,43353,Why is my phone still freezing like that’s its job? @AppleSupport,device_performance_crash,other_unknown,device_performance_crash
+19,206687,@115858 i don't like that my phone automatically gets super bright when i'm trying to text in class — fix this,other_unknown,other_unknown,other_unknown
+20,15722,"6 years later I still can’t access Contacts on iCloud, what do we need to do to finally get this fixed, @AppleSupport? //cc @119462 https://t.co/EP9KWcig3M",icloud_media_storage_problem,other_unknown,icloud_media_storage_problem
+21,92872,@AppleSupport @136106 I paid full price to use your app and now it’s not working?,app_problem,other_unknown,purchase_order_billing
+22,87214,@AppleSupport i signed out of my apple id on my phone &amp; when i signed back in tons of my music wasnt in my library/no longer downloaded &amp; my playlists were gone. i have an apple music membership. everything on my computer stayed the same however. how do i get it back to normal??,apple_id_account_problem,other_unknown,apple_id_account_problem
+23,75206,@115858 why does my iPhone 7 ever since it updated constantly freeze and have issues with all my apps #intentionallyslowingmyiphone,device_performance_crash,other_unknown,app_problem
+24,35257,"@AppleSupport If I open Safari, for example, a message appears which says that there is no internet connection.",connectivity_problem,other_unknown,connectivity_problem
+25,181417,@AppleSupport I just got a new iPhone but my pictures aren’t downloading from my old one...what do I do??,icloud_media_storage_problem,other_unknown,other_unknown
+26,216094,@AppleSupport It’s usually just the keyboard and touch screen seizing. It seems to only happen when I’m outside. It usually results in the inability to press the screen or inaccuracy when touching the screen. The side button works fine to turn the screen off or activate Siri.,hardware_device_problem,other_unknown,keyboard_input_problem
+27,145180,@AppleSupport No sir I don’t see this kind of message .,battery_problem,other_unknown,other_unknown
+28,145267,@AppleSupport Thanks for answer. Look at the picture please. The text of the notification doesn’t fit in the box. Why?,other_unknown,other_unknown,other_unknown
+29,39651,@AppleSupport Since the update yesterday my touch screen will stop working periodically. It will be working fine then stop for multiple minutes,hardware_device_problem,other_unknown,ios_update_problem
+30,215350,@AppleSupport Can I damage my Apple cord or what ever is in the lighting cord plug by yanking it?,hardware_device_problem,other_unknown,other_unknown
+31,246502,@AppleSupport why can’t I change songs on my Apple watch or in the control center or even the lock screen,apple_watch_problem,other_unknown,apple_watch_problem
+32,247086,"@AppleSupport please do something about these constant prompts for AppleID Verification, they're driving me nuts.",apple_id_account_problem,other_unknown,other_unknown
+33,14869,@AppleSupport add me to the list of the people having the “question box” autocorrect thing. Running the most current iOS on an iPhone8+.,keyboard_input_problem,other_unknown,keyboard_input_problem
+34,216089,"@AppleSupport So my IPhone 7 updated to iOS 11 all on its own. I didn’t want it. I’m not sure what’s wrong with my photos but now they don’t want to load to my messages, etc, bc they’re apparently in the cloud. I updated to 11.1.1 hoping for a fix but it’s actually worse.",icloud_media_storage_problem,other_unknown,other_unknown
+35,8304,@116333 @115858  can your team let me know why my new iPhone 6 always has hanging problem I do not know what the problem is by I know I feel I am cheated by apple for phone 📱 do I ?,device_performance_crash,other_unknown,device_performance_crash
+36,120620,@AppleSupport I can not close apps while on my iphoneX (during an active call),other_unknown,other_unknown,app_problem
+37,92674,"my iphone6 spent about 2 hours in close proximity with an iphoneX and now its almost completely broken... cant open snapchat, microphone and camera dont work, keeps closing out of apps..... @115858 ....... i see u, ur not fooling me",device_performance_crash,other_unknown,hardware_device_problem
+38,168871,"@AppleSupport hello, just wondering how to close apps on the IPhone X. On the 7 I just double tap the home button and swipe up.. what’s the method to do that on the X? Thx!",other_unknown,other_unknown,app_problem
+39,252898,@AppleSupport I don’t understand what’s wrong with my phone after the update.. facing lots of problems even after 11.0.2 update. Please help,ios_update_problem,other_unknown,ios_update_problem
+40,56981,@AppleSupport That’s still more steps than before. You can’t tap on “Done” until after you open the picture up from the bottom left of the screen either 👎,other_unknown,other_unknown,other_unknown
+41,162739,@115858 All of my pictures mysteriously disappeared from my phone. Help ME!,icloud_media_storage_problem,other_unknown,other_unknown
+42,148284,@AppleSupport hi do you do additional memory for Ipad3? Thanks,other_unknown,other_unknown,other_unknown
+43,234999,@AppleSupport Installing .2 now and will get data on my walk home today to update battery usage.,battery_problem,other_unknown,ios_update_problem
+44,148086,@AppleSupport two times they send me this fake email to steal my account https://t.co/FQCTA1Jp83,apple_id_account_problem,other_unknown,other_unknown
+45,10683,@AppleSupport Baje la App de @701 la cual es gratuita y me llego un cargo de $18.11 Pesos ¿cuál es el motivo?,purchase_order_billing,other_unknown,app_problem
+46,17351,@AppleSupport @118721 https://t.co/1mCyCovQam,other_unknown,other_unknown,other_unknown
+47,261763,"MBP not requiring password during screen saver, ignoring setting, on High Sierra. Anyone else seeing this? cc @AppleSupport",other_unknown,other_unknown,apple_id_account_problem
+48,32401,Hey @AppleSupport I heard I can change my Apple ID to my @798 email but when I try it says nope. What gives? Spent an hour signing out &amp; in.,apple_id_account_problem,other_unknown,apple_id_account_problem
+49,118117,"@115858 iOS 11 is messed up, now my phone is freezing so much",device_performance_crash,other_unknown,device_performance_crash
+50,228506,@AppleSupport Other people messages,other_unknown,other_unknown,other_unknown
+51,242750,Mobile hang and not working properly suddenly app was hide its a very disgusting usage i get after ios 11 update @115858 @AppleSupport,device_performance_crash,other_unknown,ios_update_problem
+52,164193,"@AppleSupport i’ll try this update, thank you",other_unknown,other_unknown,ios_update_problem
+53,53541,@AppleSupport Updated my Apple Watch this morning and now I'm not getting any notifications besides incoming calls. Halp...,apple_watch_problem,other_unknown,apple_watch_problem
+54,9189,"@AppleSupport My screen is lagging, my apps are all glitching, your new screen updates are slowing my processsing speed down. Y’all are killin me fr yo",device_performance_crash,other_unknown,app_problem
+55,244188,@AppleSupport The app is called Downloads,app_problem,other_unknown,app_problem
+56,11122,@AppleSupport @118101 would love to know why my pictures look like this when I take a picture 😡 https://t.co/yVpQKCBzFu,app_problem,other_unknown,other_unknown
+57,188473,Forced to update my phone and now it’s super slow... wtf @115858,device_performance_crash,other_unknown,ios_update_problem
+58,245969,Anyone having issues sending iMessages over Cellular Data after going to 11.0.2 @AppleSupport,connectivity_problem,other_unknown,messaging_facetime_problem
+59,159585,"@AppleSupport looks like am not only one having this issue! Stuck on verifying update, brand new phone today! Followed troubleshoot guide? https://t.co/WjTc4yDn8i",ios_update_problem,other_unknown,ios_update_problem
+60,37672,"@AppleSupport i have never tried on Mobile data. the problem does persist on all Wi-Fi networks (open and private) that my iphone 5s has connected to, the music app would crash and close soon after i open it.",connectivity_problem,other_unknown,connectivity_problem
+61,17307,"in a matter of 4 hours i had to make 3 hard resets on my phone, i just made 2 hard resets on this phone’s life before iOS 11. fix this @115858 @AppleSupport",other_unknown,other_unknown,other_unknown
+62,27504,@AppleSupport Yes i am able to update them using cellular data. And yes i update all of them at once,other_unknown,other_unknown,ios_update_problem
+63,143522,@AppleSupport No error or anything. But you can see how quickly the batter has died since the last full charge. I don’t know what to do :( https://t.co/bC2DRo4HUC,battery_problem,other_unknown,battery_problem
+64,36016,@115858 @AppleSupport that's what I get for buying #AppleWatchSeries3. And your support here tells me there is no problem with the watch! https://t.co/z5eW7C4pKv,apple_watch_problem,other_unknown,other_unknown
+65,177860,"@AppleSupport is there any reason why my iPad and now my iPhone just randomly shutdown for no reason, first time it’s ever happened, and when I go to turn it on it says low battery, but it was on 98%",battery_problem,other_unknown,battery_problem
+66,121554,@AppleSupport It happens with any app and all my apps are updated til now.,device_performance_crash,other_unknown,app_problem
+67,41711,"@AppleSupport just upgraded to 11.1, and had 50% battery drain on iPhone 6 during my bike ride to work (1 hour).  This is unacceptable",battery_problem,other_unknown,battery_problem
+68,235842,"@AppleSupport hi! Is this an official apple email? If so, I didn’t buy anything that’s on this receipt! 😱😱 https://t.co/hzlwX5xX87",purchase_order_billing,other_unknown,other_unknown
+69,260451,@177975 @115858 Or the issue of my phone running slow as molasses making it take 3 mins to send an “ok” text or it being hot as FIRE all damn day long.,device_performance_crash,other_unknown,device_performance_crash
+70,48012,@AppleSupport the letter i is broken https://t.co/bawyLJeACD,keyboard_input_problem,other_unknown,keyboard_input_problem
+71,97025,"Ever since I upgraded to High Sierra, my media controls on the keyboard don’t work with iTunes. Please help or fix it @AppleSupport",keyboard_input_problem,other_unknown,keyboard_input_problem
+72,149954,"Ok. @AppleSupport what is going on with iOS11.x?!
+
+Phone rebooted and it booted up straight into lockout mode. 
+
+What the fsck is going on over there? 
+
+Seriously…
+
+Every iOS11.x update has broken something new. 
+
+What. The. Fsck.
+
+#iWantMyiPhoneBack https://t.co/CPPBJCfiY1",device_performance_crash,other_unknown,ios_update_problem
+73,41549,@AppleSupport iOS 11.1,ios_update_problem,other_unknown,other_unknown
+74,116005,"@141835 @115858 This last update was utter garbage. Crucified my battery life, made everything wobbly and obnoxious, messed with the touch screen accuracy 👎🏻",device_performance_crash,other_unknown,ios_update_problem
+75,252877,@AppleSupport Hi. Where do I find my Wish List in the updated App Store on iOS11?,app_problem,other_unknown,app_problem
+76,98855,@AppleSupport  why does this only happen with the Mail app? It’s annoying https://t.co/iPOS51R0yD,app_problem,other_unknown,app_problem
+77,35262,"@AppleSupport I got refunded for an in app purchase on Monday &amp; got a conformation email, but there’s no sign of it in my account yet...",purchase_order_billing,other_unknown,purchase_order_billing
+78,116044,"@AppleSupport My Iphone 7+ has screen touch issues when it’s plugged up! And yes, I do have an apple brand charger. Help me bc it’s driving me crazy. Same for my macbook, but my charger isn’t apple brand for the laptop. 😐 help before I die plz.",hardware_device_problem,other_unknown,battery_problem
+79,208953,Yo @115858 WTF is with this auto WiFi and Bluetooth connection... it’s mad annoying!!!,connectivity_problem,other_unknown,connectivity_problem
+80,103164,Hey @AppleSupport why can’t I scroll to accept this developer agreement in Safari on iOS? Can’t get the accept button to show up. https://t.co/hanri9HS6H,app_problem,other_unknown,app_problem
+81,237627,Why does stopwatch keep coming up in my Apple Watch? @115858 - fix this oddity,apple_watch_problem,other_unknown,apple_watch_problem
+82,188515,"@AppleSupport Crashing on safari, notes, photos &amp; videos, viva, messenger &amp; fb. Thank you",device_performance_crash,other_unknown,app_problem
+83,199413,My iPhone’s 7 battery was working perfect until @115858 release IOS 11 and new iPhones. Pretty sure they released a bug to force upgrade.,battery_problem,other_unknown,battery_problem
+84,233955,@AppleSupport the price shown is 690 but was on offer for under 300 Taking a screenshot accidently bought it.refund. email support is high https://t.co/XbdpIG3kPx,purchase_order_billing,other_unknown,purchase_order_billing
+85,87151,"@AppleSupport heb half jaar nieuwe #MacBook en dan dit probleem met #toetsenbord. Contact gehad met jullie supportchat. Zij kunnen niets doen, advies: MacBook opsturen, 4-6 weken kwijt, onduidelijk of t in garantie is. Ik kan MacBook niet zo lang kwijt. Weten jullie meer?",hardware_device_problem,other_unknown,other_unknown
+86,119518,@AppleSupport if you accidentally text a number that you've blocked will that message be received by them?,messaging_facetime_problem,other_unknown,other_unknown
+87,258913,@AppleSupport Yes I did and did it several times ever since. I already had the problem for the last update and had to do it through iTunes...,ios_update_problem,other_unknown,ios_update_problem
+88,43192,"@AppleSupport I got my iphone 7 9 months ago. Since the ios 11 update I have to charge it twice a day, I get no more than 3/4hs of total usage before battery drains out. I love you apple, but please fix this!",battery_problem,other_unknown,ios_update_problem
+89,56996,@AppleSupport Yes full service on both,other_unknown,other_unknown,other_unknown
+90,87150,"@AppleSupport I had contact with chat support before, they could not help me. My letter e and s on the keyboard are almost gone, MacBook is just 8 months old. Unclear about guarantees and repair costs 4-6 weeks! 😢",keyboard_input_problem,other_unknown,keyboard_input_problem
+91,238925,"Hello @AppleSupport I have an issue unlocking my Apple ID , can't remember two of my security questions and the email method is not working",apple_id_account_problem,other_unknown,apple_id_account_problem
+92,233957,@AppleSupport Help me 😭 it won't stop freezing,device_performance_crash,other_unknown,device_performance_crash
+93,92547,"Is it just me or do others experience problems with people hearing you when calling on your iPhone?! Or maybe we’re not supposed to speak on phones anymore!! Mine’s a new 7, so not impressed @115858 @AppleSupport 😡",connectivity_problem,other_unknown,other_unknown
+94,112856,"Hey @AppleSupport 11.2.1 is killing my battery- big time. iPhone 6s+ I used to make it to 3 pm and still have 80%. I’m below 40 already (3:15). And no, I don’t use the @126972 app.",battery_problem,other_unknown,battery_problem
+95,149963,"@AppleSupport iOS 11.1.1
+watchOS 4.1
+But it happened for the first time a while ago https://t.co/DQ2V4UNEV5 in that opportunity I followed your tips (unpair, repair, etc)",apple_watch_problem,other_unknown,apple_watch_problem
+96,156023,@AppleSupport I need help with something related to iTunes :) can you help?,other_unknown,other_unknown,other_unknown
+97,157768,"@AppleSupport Thank you for your answer. I am using iPad mini 2, with iOS 11.1.2.",other_unknown,other_unknown,other_unknown
+98,260859,AppleTV3 refuses to sign into iTunes. Cannot buy or watch movies. Sort it out @AppleSupport,other_unknown,other_unknown,apple_id_account_problem
+99,110871,@AppleSupport None of the above. I just tried to check my emails and a message popped up saying that the Mac couldn’t login to the email address and the account.,apple_id_account_problem,other_unknown,apple_id_account_problem
+100,178646,"Dear @AppleSupport,
+I noticed the video in App Store when it’s viewed in full screen, it gives me only 6 seconds of the video and re loops",app_problem,other_unknown,app_problem
+101,155946,"@AppleSupport went away to diff time zone. Left watch home &amp; off. Came back, phone had auto changed time correctly. Watch on &amp; hour behind. Have tried to sync. Can’t correct time. Settings?",apple_watch_problem,other_unknown,device_performance_crash
+102,162736,@115858 why does my iphone die when its at 50% battery and i open snapchat .. its extremely frustrating 😩,battery_problem,other_unknown,battery_problem
+103,4877,@AppleSupport Restarting does resolve the issue. Thanks.,device_performance_crash,other_unknown,device_performance_crash
+104,187914,"@AppleSupport Were not friends so can’t dm. Welcome to Twitter. Responsiveness is erratic. Touch, swipe, 3D Touch. Apps and springboard freeze or glitch.",device_performance_crash,other_unknown,app_problem
+105,148077,@AppleSupport how do I stop my WiFi from automatically connecting to a network by itself?,connectivity_problem,other_unknown,connectivity_problem
+106,44616,@115858 fix yourself so that my phone stops freezing up,device_performance_crash,other_unknown,device_performance_crash
+107,38244,@AppleSupport after updating my Apple Watch series 2 to WatchOS 4.1 battery is draining a lot faster.,apple_watch_problem,other_unknown,apple_watch_problem
+108,97011,@137175 I had to disable my spell check. IT was driving me INSANE #DoBetterApple @AppleSupport @115858,keyboard_input_problem,other_unknown,other_unknown
+109,249169,"@AppleSupport having constant problems downloading podcasts to the ""My Podcast"""" app.  I've tried deleting and re-downloading several times.""",app_problem,other_unknown,app_problem
+110,277533,@AppleSupport my rear facing camera in my iPhone 6s isn’t working. I’ve restarted my phone 3 times and closed and re opened apps. Why?,app_problem,other_unknown,device_performance_crash
+111,118064,@AppleSupport i am using ios 11.1.2,other_unknown,other_unknown,other_unknown
+112,242732,"@AppleSupport Obviously. I've been using if for a while for my indoor workouts; used it for an outdoor workout once on Monday, and now it's wonky",apple_watch_problem,other_unknown,other_unknown
+113,148293,@118845 where can I get replacement pads for my beats studio wireless in India?,other_unknown,other_unknown,other_unknown
+114,245314,"@AppleSupport Yes, i restarted my device and now all is running ok 👌🏼 thanks!!!",other_unknown,other_unknown,device_performance_crash
+115,199421,"@AppleSupport Yup I have!! It still hangs, what do I do? Also, I have photos from 2015 that appear in the recent ones on my camera roll. Pls help",device_performance_crash,other_unknown,device_performance_crash
+116,82035,"@115858 please fix where whenever you open an app, besides music, or get a notification the music playback stops.",app_problem,other_unknown,app_problem
+117,265037,IOS 11 is a waste of time right now. Where does my keyboard keep going? And my apps keep crashing @AppleSupport what's going on?,keyboard_input_problem,other_unknown,keyboard_input_problem
+118,240528,"#ios1102 battery drain 
+Any help here @115858",battery_problem,other_unknown,battery_problem
+119,229217,@AppleSupport I never had this issue on iOS 10,other_unknown,other_unknown,other_unknown
+120,196124,"@AppleSupport Yes, I do. But it asks me for the password each time, and then it fails. I ultimately set it up somehow, but it's missing all my health data",apple_id_account_problem,other_unknown,apple_id_account_problem
+121,215804,@AppleSupport - iOS 11 &amp; .1 terrible! Battery life drops quicker than pound did after Brexit referendum! &amp; it crashes more than bumper cars!,battery_problem,other_unknown,battery_problem
+122,57496,@AppleSupport Works fine with WiFi which is why I tagged Verizon too.,connectivity_problem,other_unknown,connectivity_problem
+123,255776,@AppleSupport Currently using IOS 11.0,other_unknown,other_unknown,other_unknown
+124,109024,@AppleSupport iOS 11.1,other_unknown,other_unknown,other_unknown
+125,257723,"@AppleSupport No, no error messages - I just have to constantly enter &amp; re-enter my AppleID and my password",apple_id_account_problem,other_unknown,apple_id_account_problem
+126,174936,@AppleSupport I don’t want to use your iCloud. I do I make it so you can’t keep reminding me to sign in. If it keeps happening I’ll just switch companies https://t.co/yYHXpJoSAN,apple_id_account_problem,other_unknown,icloud_media_storage_problem
+127,58162,@AppleSupport hi I need your help on restoring my purchase,purchase_order_billing,other_unknown,purchase_order_billing
+128,261292,Every update is more and more glitchy. Damnit @115858! I’m getting the new iPhone. You don’t have to do this.,other_unknown,other_unknown,ios_update_problem
+129,242598,"@115858 since updating last time, my text messaging keeps messing up. “New” message feature disappears, and can’t see complete messages",messaging_facetime_problem,other_unknown,messaging_facetime_problem
+130,245320,Luuuuv updating my phone and having my battery drop from 100% to 25% in 30 minutes:~))))) @115858,battery_problem,other_unknown,battery_problem
+131,81969,@AppleSupport 6s + and version 11.1.2 but this ain’t the first time it’s happened.,other_unknown,other_unknown,other_unknown
+132,241463,@173329 @115858 Seriously battery has become major issue,battery_problem,other_unknown,battery_problem
+133,235829,@AppleSupport I have 2 fingerprints installed and it happens with all. Also got this error message https://t.co/wvXmcJvGdG,other_unknown,other_unknown,other_unknown
+134,6690,@AppleSupport My phone froze. Had to restart to fix. What’s happening after iOS 11 update.,device_performance_crash,other_unknown,ios_update_problem
+135,199409,@AppleSupport  after 11.01 update my battery 50% low in 2-3 hours. What happened ?,battery_problem,other_unknown,ios_update_problem
+136,57519,@AppleSupport And then it actually locks with a blank screen,other_unknown,other_unknown,other_unknown
+137,110869,So I ran a 5k today but my watch didn’t record it as a 5k :( #applewatch #apple @AppleSupport https://t.co/PyRRSz4n3g,apple_watch_problem,other_unknown,apple_watch_problem
+138,208189,@AppleSupport ios 11.0.1 can’t connect bluetooth to my car’s head unit. Will wait for your reply.,connectivity_problem,other_unknown,connectivity_problem
+139,235301,"Hey @AppleSupport , a new line of text typed in iMessage or WhatsApp dissapears behind keyboard in iOS 11 on my 6S. Aware of this problem?",keyboard_input_problem,other_unknown,messaging_facetime_problem
+140,105441,"@AppleSupport so. i hate updates. ive rebooted iphone 6  37 times now &amp; still the screen freezes. i cant answer calls, send or read texts, et al.this is the worst it’s ever been. i cant deal. ready to ditch Apple aftr 20 yrs",device_performance_crash,other_unknown,device_performance_crash
+141,105434,@AppleSupport It’s usually a site trying to process a payment. I’m on High Sierra.,other_unknown,other_unknown,purchase_order_billing
+142,119453,Why the hell does Apple provide regular corded earphones with the iPhone 8 when they can’t be used unless I buy a connecter? So annoying! 😤 @AppleSupport,other_unknown,other_unknown,connectivity_problem
+143,151540,"@AppleSupport Bought a laptop a week ago, do I have to return and re-buy to get the gift card offered today?  Any other way to avoid putting a now used laptop back into your system?",purchase_order_billing,other_unknown,purchase_order_billing
+144,162833,@AppleSupport it is just so pathetic the colour of iPhone 7 Plus starts fading within one month inspite of using cover. For what the heck do you guys charge 55k. Shame on you local Indian brands also don’t give such quality!!!,hardware_device_problem,other_unknown,battery_problem
+145,87001,tell me when will you send your god damn confirmation message. ı cant use my blasted phone. would you like help me ? @AppleSupport,other_unknown,other_unknown,other_unknown
+146,249299,Just watched my battery meter go from 52% to 17% in ten minutes while not using it. Nothing running in the background. @AppleSupport @115858 why do you program phone to do this after they reach a certain age??,battery_problem,other_unknown,battery_problem
+147,105374,"@AppleSupport my watch is running really slow, it’s up to date, I’ve restarted it, turned it on and off, not sure what else I can do?",apple_watch_problem,other_unknown,device_performance_crash
+148,62281,"@AppleSupport No, just the Apple weather app and the Apple weather widget",app_problem,other_unknown,app_problem
+149,56993,It's happening not just in iMessage and sometimes appears correct on my phone but not my computer???? @applesupport HELP,keyboard_input_problem,other_unknown,messaging_facetime_problem
+150,11992,@115858 @AppleSupport your latest iOS update had made my phone slower and apps like iMessage are slow to open and load.  What’s up with this?,device_performance_crash,other_unknown,ios_update_problem
+151,8420,@AppleSupport Chat doesn’t seem to work in Germany. On the order page I cannot leave comments …,purchase_order_billing,other_unknown,purchase_order_billing
+152,53578,@AppleSupport can I buy Apple care if I got my iPhone from EE and asking as it’s within the time limit to buy?,purchase_order_billing,other_unknown,other_unknown
+153,14326,"Updated my phone last night &amp; now its stuck in headphone mode, cant hear anything on video, FaceTime &amp; call sound goes in&amp;out @AppleSupport",connectivity_problem,other_unknown,messaging_facetime_problem
+154,165766,hi @AppleSupport i have a fully upgraded iphone SE.  why can’t i download or use the video app to watch even SD videos (on this device) that i already own?  why can i only watch them on my pc laptop *that cost less than this phone did*?,app_problem,other_unknown,app_problem
+155,122303,"@AppleSupport, I completed a 3.7 mile walk workout today but didn’t get my Thanksgiving achievement. https://t.co/1CeL6XH6z6",apple_watch_problem,other_unknown,other_unknown
+156,199427,@AppleSupport I saw the iPhone X bar on the keyboard at the bottom of my iPhone as shown in the photo shared,keyboard_input_problem,other_unknown,keyboard_input_problem
+157,62241,@AppleSupport No I don’t &amp; I have the latest update,other_unknown,other_unknown,ios_update_problem
+158,105400,@AppleSupport Why is my iPhone X’s screen still freezing? I thought the last update was supposed to fix it??,device_performance_crash,other_unknown,ios_update_problem
+159,31438,"@AppleSupport Yes, same thing. Its not working. I'm trying on both my account and as a guest. It says both times that I do not have access.",purchase_order_billing,other_unknown,other_unknown
+160,103240,Why did all my pictures just delete from my phone. WTF just happened @AppleSupport,icloud_media_storage_problem,other_unknown,other_unknown
+161,115985,@AppleSupport Stuff that’s not in chronological order. It’s just nowhere as user friendly as before,app_problem,other_unknown,purchase_order_billing
+162,42618,@AppleSupport my iPhone 8 lock screen music controls always freeze specifically the elapsed time of a song I can still control. Visual bug,other_unknown,other_unknown,device_performance_crash
+163,187924,It’s time for another software update @115858! I’m ready to throw my phone in the trash,ios_update_problem,other_unknown,ios_update_problem
+164,31931,@AppleSupport Can I pay for  Care + online with an Apple Store gift card or do I have go into the store?,purchase_order_billing,other_unknown,purchase_order_billing
+165,31929,Okay @115858 fix this shit! I’m tired of seeing these boxes when I’m typing an I.,keyboard_input_problem,other_unknown,keyboard_input_problem
+166,56985,"@115858 @AppleSupport how do I get my keyboard to STOP auto correcting the letter ""I️"""" to a symbol. See attached photo. https://t.co/SpXE0xFHvi""",keyboard_input_problem,other_unknown,keyboard_input_problem
+167,146806,"Awesome new iPhone safety feature @115858 @AppleSupport 😍 Woukd be very impressed and intrigued to see statistics of how this works. Where can I find these? Best upgrade I’ve seen so far but don’t like the feature of all my data on it DOB, shipping address etc can I remove this? https://t.co/MHDDBrhUtd",other_unknown,other_unknown,other_unknown
+168,195912,@AppleSupport  I’m on 11.0.2. No matter how many time I reset the settings or restart the phone my autocorrect etc wont work. Any fixes?,keyboard_input_problem,other_unknown,keyboard_input_problem
+169,54451,Updated my phone and still see boxes with question marks WHYYYY @115858,keyboard_input_problem,other_unknown,other_unknown
+170,184439,"@115858 there are some weird ass bugs in this iOS on the iPhone 8+. Some characters don’t appear properly (my last tweet, 4 example) &amp; sometimes the keyboard disappears when I’m in the messaging app.",keyboard_input_problem,other_unknown,keyboard_input_problem
+171,43347,@AppleSupport My phone just lost 50% battery in 5 minutes with only Twitter open. It's an iPhone 5 (MD638LL/A) running iOS 10.3.3 (14G60),battery_problem,other_unknown,battery_problem
+172,246316,@AppleSupport You have an issue with WhatsApp “type a message” box experiences in iPhone 7. It goes only after switching the mobile,messaging_facetime_problem,other_unknown,keyboard_input_problem
+173,40528,"@AppleSupport Other site works on Safari, and at the same time icloud login also works perfectly fine in Chrome",apple_id_account_problem,other_unknown,icloud_media_storage_problem
+174,101285,Anybody else getting really annoyed with trying to type “it” and constantly having it autocorrect to I.T ???? What’s good with that @115858 ???,keyboard_input_problem,other_unknown,keyboard_input_problem
+175,110864,@AppleSupport I’m on the latest version,other_unknown,other_unknown,other_unknown
+176,38217,"@AppleSupport I’m complaining on Twitter because phone support was not useful and disrespectful with me, 1st time after 15 years, times’re changing @115858",other_unknown,other_unknown,app_problem
+177,248184,"@AppleSupport Hi Apple! After your IOS 11.0.2,My video player cannot turned into landscape.It turns half of my screen ! I need help !! https://t.co/zV5zhiZTZ0",app_problem,other_unknown,other_unknown
+178,35209,"I don’t know if it’s either my #iPhone 6 or The new #iOS update I installed yesterday but, my battery had been draining out! #Apple @115858",battery_problem,other_unknown,ios_update_problem
+179,146791,@AppleSupport Yes. And latest version,other_unknown,other_unknown,other_unknown
+180,252768,Ok but seriously.... how do I️ get my #iphone to stop turning all my “i “s into this I️ @115858 #Help,other_unknown,other_unknown,other_unknown
+181,188320,Great job Apple!Now I cannot use Beats Powerbeats for my daily workout as they could get wet and just turn off and no repair @AppleSupport,other_unknown,other_unknown,battery_problem
+182,50871,Getting a glitch on iOS 11.1 where my home button is functioning as media keys for playback on music. This is annoying. (cc:@115858),other_unknown,other_unknown,device_performance_crash
+183,90990,"@AppleSupport hello, my iPhone 7 keeps crashing? Help",device_performance_crash,other_unknown,device_performance_crash
+184,123123,"@AppleSupport Stops as soon as I scroll over a video (not clicking it, video has no sound playing but is auto playing)
+
+However, tapping a video to full screen followed by closing it appears to have fixed the issue for now. 
+
+A stray “video start” event?",app_problem,other_unknown,app_problem
+185,268224,"@AppleSupport Yes, tried repairing the HD etc have restarted many times.",ios_update_problem,other_unknown,device_performance_crash
+186,243322,My question was: Why keep the wi-fi (and Bluetooth) going on once I switched them off? @AppleSupport https://t.co/shktfG16s4,connectivity_problem,other_unknown,connectivity_problem
+187,58847,"@AppleSupport 4G. In fact, my internet connection was used to create this tweet at the time so I have to assume the network was not the cause.",connectivity_problem,other_unknown,connectivity_problem
+188,199445,"@AppleSupport yeah i am, it won’t let me skip or turn up. also it doesn’t show up when i use spotify",app_problem,other_unknown,app_problem
+189,110905,Why aren’t my messages going thruuuu @AppleSupport https://t.co/3M38evL4W5,messaging_facetime_problem,other_unknown,other_unknown
+190,154490,"Wait one minute @115858, I like being able to screenshot a photo and crop it at the same time. Why take that away with the latest update????",other_unknown,other_unknown,ios_update_problem
+191,32359,@AppleSupport I meant auto renewing purchases per week or month like the FemaleFitness app for example,purchase_order_billing,other_unknown,purchase_order_billing
+192,188645,"@AppleSupport It is now, all fixed! Thanks @AppleSupport",other_unknown,other_unknown,other_unknown
+193,246514,"@AppleSupport Today... I was chatting and my bat was at 28 locked and 3 minutes later was about to reply, 10% then opened to twitted it Boom 2%",battery_problem,other_unknown,other_unknown
+194,125009,"@AppleSupport mate, I lost a song that I buy, I don't know how it happen, can I get it back?",purchase_order_billing,other_unknown,other_unknown
+195,176997,"@AppleSupport Using Sierra, Photos V2.0. Making a calendar. How do I change the number of photos on the particular month? Example, there is one photo on the month now. I want, two or three or four. How do I do this?",app_problem,other_unknown,device_performance_crash
+196,39627,@AppleSupport Fixed. Wasn’t worm king with both until I went to work and connected to a WiFi that I haven’t been remembered by,connectivity_problem,other_unknown,connectivity_problem
+197,45598,@AppleSupport iOS 11.1 + watchOS 4,apple_watch_problem,other_unknown,apple_watch_problem
+198,264847,"@AppleSupport can Siri read text (like my Evernote page) to me? If not, where do I make a formal request?",other_unknown,other_unknown,other_unknown
+199,90654,"@AppleSupport excuse me,
+I'm got a refund confirmation email but nothing happened.
+Do I have to do anythings?",purchase_order_billing,other_unknown,purchase_order_billing
+200,119470,@AppleSupport I didn’t realize that by upgrading from my iPhone 6 to the new iPhone X I was loosing Bluetooth.  Any idea when I can return to life as I know it?,connectivity_problem,other_unknown,connectivity_problem
