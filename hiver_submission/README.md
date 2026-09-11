@@ -459,29 +459,58 @@ The judge agreement requirement requires independent human ratings. Provisional 
 
 The repository is designed to reproduce the headline evaluation using the included evaluation artifacts and a manageable AppleSupport subsample rather than requiring the complete 3M-row dataset.
 
-Install dependencies:
+Reproduction
 
-```bash
-pip install -r requirements.txt
-```
+The repository includes a lightweight AppleSupport customer/support-pair sample and the frozen 200-example audited golden set. The full TWCS dataset is not included.
 
-Run the baseline evaluation:
+1. Install dependencies
 
-```bash
-python scripts/run_baselines.py
-```
+From the repository root:
 
-Run the evaluation harness:
+pip install pandas scikit-learn pyyaml
+2. Run the agent
+python -m src.hiver_agent.run \
+  --pairs data/apple_support_pairs_sample.csv \
+  --input data/golden_set_audit_review.csv \
+  --output evaluation/reproduction_predictions.csv
 
-```bash
-python evaluation/run_evaluation.py
-```
+This command runs the agent pipeline end-to-end:
 
-The main outputs are written under the evaluation/results directories.
+Trains the TF-IDF + Logistic Regression intent classifier on the AppleSupport pair sample.
+Predicts one of the 13 frozen intents for each golden-set example.
+Retrieves similar historical AppleSupport cases using TF-IDF similarity.
+Generates a response grounded in the retrieved historical support response.
+Applies the confidence, similarity, human-request, and safety escalation rules.
+Writes the resulting predictions to evaluation/reproduction_predictions.csv.
+3. Verify the output
 
-The repository also includes the relevant cached evaluation artifacts so that the headline results can be inspected without processing the full TWCS dataset.
+The generated file should contain one row for each example in the audited golden set, together with the predicted intent, confidence, retrieved evidence, drafted response, and escalation decision.
 
----
+The repository also contains the previously generated evaluation artifacts:
+
+evaluation/baseline_predictions.csv — TF-IDF + Logistic Regression baseline predictions.
+evaluation/retrieval_baseline_top5.csv — top-5 historical retrieval results.
+evaluation/agent_predictions.csv — agent evaluation predictions.
+evaluation/evaluation_results.json — aggregate evaluation metrics.
+evaluation/intent_metrics.csv — per-intent classification metrics.
+Reference results
+
+On the frozen 200-example audited golden set, the reported classifier results are:
+
+Majority baseline: 21.5% accuracy / 2.7% macro-F1
+TF-IDF + Logistic Regression: 57.0% accuracy / 52.8% macro-F1
+Weighted-F1: 58.5%
+Mean top-1 retrieval similarity: 0.344
+Top-1 similarity ≥ 0.25: 75.0%
+Agent escalation rate: 46.0%
+
+These numbers are evaluation-set results and should not be interpreted as production automation rates.
+
+Reproducibility and leakage
+
+The audited golden-set examples are excluded from classifier training and historical retrieval. The included AppleSupport pair sample is provided to keep the reproduction lightweight and within the assignment's target runtime.
+
+The audited golden set was AI-assisted with manual review/audit and is therefore treated as a curated evaluation set rather than independently annotated human ground truth.
 
 # 16. One more week
 
